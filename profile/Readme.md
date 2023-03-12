@@ -1,9 +1,9 @@
-#SpecIFicator
-##A reference implementation and open source framework for the SpecIFication Integration Facility (SpecIF) in .NET
+# SpecIFicator
+## A reference implementation and open source framework for the SpecIFication Integration Facility (SpecIF) in .NET
 
 More information can be found at https://www.specificator.com
 
-##Resources
+## Resources
 
 * https://github.com/oalt
 * https://github.com/GfSE/SpecIF
