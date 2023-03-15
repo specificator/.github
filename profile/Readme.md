@@ -1,5 +1,5 @@
 ![SpecIF - Specification Integration Facility](https://github.com/specificator/.github/raw/main/profile/images/specificator_logo.png)
-## A reference implementation and open source framework for the SpecIFication Integration Facility (SpecIF) in .NET
+## A reference implementation and open source framework for the Specification Integration Facility (SpecIF) in .NET
 
 [![SpecIFictor Development Integration Build](https://github.com/specificator/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml/badge.svg)](https://github.com/specificator/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml)
 
